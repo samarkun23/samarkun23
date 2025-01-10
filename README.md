@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samarkun23
+- 👋 Hi, I’m samarkun23
 - 👀 I’m interested in Web develpment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on 

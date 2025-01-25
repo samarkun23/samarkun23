@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web develpment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me This is my account on Instagram @samarkun7 ;
+- 📫 How to reach me This is my account on Instagram @samarkun_ ;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

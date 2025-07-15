@@ -3,7 +3,7 @@
 
 ## 🔧 Current Focus 
 - Working through Harkirat 100xDevs Cohort 3 (MER‑DevOps)
-- Building a MERN project with Hitesh sir
+- Building a Nextjs project with Hitesh sir
 
 ## 🛠️ Skills
 Next.js, React, MongoDB, TypeScript, Docker, Nginx, OpenAI API

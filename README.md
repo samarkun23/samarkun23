@@ -9,5 +9,5 @@
 Next.js, React, MongoDB, TypeScript, Docker, Nginx, OpenAI API
 
 ## 📫 Connect with me
-Twitter -> https://x.com/samarkun4
-LinkedIn -> https://www.linkedin.com/in/samar-kun-6aa981358/
+- Twitter -> https://x.com/samarkun4 
+- LinkedIn -> https://www.linkedin.com/in/samar-kun-6aa981358/

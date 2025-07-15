@@ -1,12 +1,13 @@
--  Hi, I’m samarkun
--  I’m interested in Web develpment
--  I’m currently learning React
--  I’m looking to collaborate on 
--  How to reach me This is my account on Instagram @samarkun_ ;
--  Pronouns: ...
--  Fun fact: ...
+# 👋 Hi, I’m Samar
+**Full-Stack Developer | MERN | OpenAI | Next.js**
 
-<!---
-samarkun23/samarkun23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Current Focus 
+- Working through Harkirat 100xDevs Cohort 3 (MER‑DevOps)
+- Building a MERN project with Hitesh sir
+
+## 🛠️ Skills
+Next.js, React, MongoDB, TypeScript, Docker, Nginx, OpenAI API
+
+## 📫 Connect with me
+Twitter -> https://x.com/samarkun4
+LinkedIn -> https://www.linkedin.com/in/samar-kun-6aa981358/

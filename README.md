@@ -18,12 +18,15 @@
   - Theads: [@samarkun23](https://www.threads.com/@samarkun_)
 
 - ⚡ Fun fact: I love to watch anime and play video games in my free time!
+
 ## Skills
 - Languages: JavaScript, TypeScript, Python, Java, HTML, CSS, SQL
 - Frameworks/Libraries: React, Node.js, Express, Prisma, Next.js, 
 - Databases: MongoDB, PostgreSQL, MySQL
+- Realtime & Collaborative: WebSockets, Socket.io, WebRTC
 - Tools: Git, Docker, Kubernetes, AWS, Azure
 - Other: RESTful APIs, GraphQL, Microservices, CI/CD
+
 ## Projects
 - [Project 1](https://github.com/samarkun23/Fluxo): This is a web application that allows users to create their workflow just like zapier and n8n.
 - [Project 2](https://github.com/samarkun23/Excellidraw): This is a web board that allow user to collaboratly draw and take notes just like Excalidraw.

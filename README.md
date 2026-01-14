@@ -3,7 +3,8 @@
 
 ## Hi there 👋
 
-I am samarkun, a full stack developer with a passion for creating innovative solutions. Welcome to my GitHub profile!
+ Hi, I’m Samar — a self-taught full-stack dev building real-world apps with realtime & collaborative features.
+
 
 ## About Me
 - 🌱 I’m currently learning advanced scalability and devops and web3 stuff

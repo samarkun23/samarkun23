@@ -14,6 +14,7 @@ I am samarkun, a full stack developer with a passion for creating innovative sol
   - Email: `samarkun4@gmail.com`
   - Twitter: [@samarkun4](https://x.com/samarkun4)
   - LinkedIn: [samarkun](https://www.linkedin.com/in/samar-kun-6aa981358/)
+  - Theads: [@samarkun23](https://www.threads.com/@samarkun_)
 
 - ⚡ Fun fact: I love to watch anime and play video games in my free time!
 ## Skills
